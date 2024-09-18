@@ -1,3 +1,7 @@
+
+import kelompok2.Ghina;
+import kelompok2.Nurul;
+
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
@@ -132,21 +136,19 @@ public class MainFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
+    new Putra().setVisible(true);
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        // TODO add your handling code 
-       new AhmadNurMukhlisin().setVisible(true);
+    new AhmadNurMukhlisin().setVisible(true);
     }//GEN-LAST:event_jButton2ActionPerformed
 
     private void HikamBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_HikamBtnActionPerformed
-         AhmadHikamulKiromFrame AhmadHikamulKiromFrame = new AhmadHikamulKiromFrame();
-         AhmadHikamulKiromFrame.setVisible(true);
+     new AhmadHikamulKiromFrame().setVisible(true);
     }//GEN-LAST:event_HikamBtnActionPerformed
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
-        // TODO add your handling code here:
+    new Nurul().setVisible(true);
     }//GEN-LAST:event_jButton4ActionPerformed
 
     private void jButton5ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton5ActionPerformed
@@ -154,11 +156,11 @@ public class MainFrame extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton5ActionPerformed
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
-        // TODO add your handling code here:
+    new Ghina().setVisible(true);
     }//GEN-LAST:event_jButton6ActionPerformed
 
     private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
-        // TODO add your handling code here:
+    new rifaul().setVisible(true);
     }//GEN-LAST:event_jButton7ActionPerformed
 
     /**
